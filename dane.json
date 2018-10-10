@@ -5,6 +5,7 @@
 		tadam: {
 			czary: "mary",
 			ile-litrow: 15
-		}
+		},
+		dodatkowe-dane: "dodatkowe informacje"
 	}
 }
