@@ -6,6 +6,7 @@
 			czary: "mary",
 			ile-litrow: 15
 		},
-		jakies-inne-dane: 300
+		jakies-inne-dane: 300,
+		dodatkowe-dane: "dodatkowe informacje"
 	}
 }
